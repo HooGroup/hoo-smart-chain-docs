@@ -5,7 +5,7 @@
 
 Ethereum： [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://etherscan.io/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
 
-HSC: [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://scan.hscchain.com/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
+HSC: [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://scan.hoosmartchain.com/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
 
 # 工作原理
 ![bridge](images/bridge.png)
@@ -16,7 +16,7 @@ HSC: [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://scan.hscchain.com/addr
 
 1）提出申请
 
-联系商务或者联系 <devcontacts@huobi.com>
+联系商务或者联系 <devcontacts@hoo.com>
 
 2）桥部署 Token 合约
 

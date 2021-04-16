@@ -3,14 +3,14 @@
 ## 源码下载
 通过`git`下载源码
 ```
-    git clone https://github.com/HuobiGroup/huobi-eco-chain.git
+    git clone https://github.com/HooGroup/hoo-smart-chain.git
 ```
 ## 安装Golang
 参考 [Go Download and install](https://golang.org/doc/install)
 
 ## 编译
 ```
-cd /path/to/hscchain
+cd /path/to/hoosmartchain
 make geth
 ```
 > 如果希望进行跨平台编译，比如在`Mac`上编译`Linux`平台的二进制文件，可以使用 `make geth-linux`相关命令操作

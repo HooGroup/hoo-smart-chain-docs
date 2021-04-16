@@ -8,7 +8,7 @@ Hsc 节点支持 [json-rpc 2.0](https://www.jsonrpc.org/specification)标准的 
 一个典型的 json-rpc 请求是这样的：
 
 ```
-curl --location --request POST 'https://http-mainnet-node.huobichain.com' \
+curl --location --request POST 'https://http-mainnet-node.hoochain.com' \
 --header 'Content-Type: application/json' \
 --data-raw '{"jsonrpc":"2.0","id":3,"method":"web3_clientVersion","params":[]}
 '

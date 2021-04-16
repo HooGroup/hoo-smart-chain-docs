@@ -1,4 +1,4 @@
-- [Homepage](https://www.hscchain.com/)
+- [Homepage](https://www.hoosmartchain.com/)
 - Translations
   - [:cn: 中文](/)
   - [:uk: English](/en-us/intro)

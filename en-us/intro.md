@@ -129,4 +129,4 @@ HooGlobal will strongly support the development of Hsc ecosystem:
 - All users and developers can participate in the current test environment and subsequent stages of Hsc for free, and there is no charging scenario.
 - All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
 - Hsc announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
-- Do not misread the official website (hscchain.com), and be cautious with private key phishing.
+- Do not misread the official website (hoosmartchain.com), and be cautious with private key phishing.

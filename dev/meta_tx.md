@@ -6,7 +6,7 @@
 
 # Java 版本 Demo
 
-https://github.com/HuobiGroup/metatx-Java-demo
+https://github.com/HooGroup/metatx-Java-demo
 
 ## 元交易构造
 - 获取原始的`rawTransaction`信息；
@@ -46,8 +46,8 @@ https://github.com/HuobiGroup/metatx-Java-demo
 ### API
 
 ```
-https://meta-mainnet.hscchain.com [主网]
-https://meta-testnet.hscchain.com [测试网]
+https://meta-mainnet.hoosmartchain.com [主网]
+https://meta-testnet.hoosmartchain.com [测试网]
 ```
 
 - 计算补贴费率

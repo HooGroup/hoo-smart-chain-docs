@@ -3,7 +3,7 @@
 结果分 3 挡：慢、中、快；
 
 ```
-curl https://tc.hscchain.com/price/prediction
+curl https://tc.hoosmartchain.com/price/prediction
 ```
 
 

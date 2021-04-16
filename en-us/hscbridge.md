@@ -5,7 +5,7 @@ Contract Address：
 
 Ethereum： [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://etherscan.io/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
 
-HSC: [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://hscinfo.com/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
+HSC: [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://hscscan.com/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
 
 # How it works
 
@@ -17,7 +17,7 @@ The process is:：
 
 1）Submit application
 
-contact bd or <devcontacts@huobi.com>
+contact bd or <devcontacts@hoo.com>
 
 2）Deploy token contract
 

@@ -9,7 +9,7 @@
 国内访问：
 
 ```
-https://http-mainnet-node.huobichain.com
+https://http-mainnet-node.hoochain.com
 ```
 
 社区节点-国内访问：
@@ -19,16 +19,16 @@ https://http-mainnet-node.defibox.com
 
 国外访问：
 ```
-https://http-mainnet.hscchain.com
+https://http-mainnet.hoosmartchain.com
 ```
 
 ## 浏览器
 ```
 v1:
-https://hscinfo.com
+https://hscscan.com
 
 v0: 3-5 退出运营
-https://scan.hscchain.com
+https://scan.hoosmartchain.com
 ```
 
 # P2P 节点
@@ -46,7 +46,7 @@ enode://ca2b5acf1ecbf96a032b3ced0524f825e6af73426de641256475694ff2e7c328cdfa4346
 
 ## 国外连接
 
-> 已预置在代码中，作为 bootstrap node: https://github.com/HuobiGroup/huobi-eco-chain/blob/master/params/bootnodes.go
+> 已预置在代码中，作为 bootstrap node: https://github.com/HooGroup/hoo-smart-chain/blob/master/params/bootnodes.go
 
 ```
 enode://7bed18c87054f807bc9096501bc78f737363f357af831791bab07c4fa6c5a1a67cdcf0a097dc2cc918262ef04fb1c05c26026df5c11a6a56666f9b1fb4072210@18.178.30.66:32668

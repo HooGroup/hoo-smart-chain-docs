@@ -15,7 +15,7 @@ The difficulty value of a block is 2 when the block is generated normally and 1 
 - epoch. Time interval in blocks, currently 1epoch = 200block on `Hsc`. At the end of each epoch, the blockchain interacts with the system contracts to update active validators.
 
 ## System contract
-[huobi-eco-contracts](https://github.com/HuobiGroup/huobi-eco-contracts)
+[hoo-smart-contracts](https://github.com/HooGroup/hoo-smart-contracts)
 
 The management of the current validators are all done by the system contracts.
 - Proposal  Responsible for managing access to validators and managing validator proposals and votes.
@@ -28,7 +28,7 @@ Blockchain call system contracts：
 - At the end of each epoch, the `Validators` contract is called to update active validators, based on the ranking.
 
 ## Staking
-For any account, any number of coins can be staked to the validator, and the minimum staking amount for each validator is `32HT`.
+For any account, any number of coins can be staked to the validator, and the minimum staking amount for each validator is `32HOO`.
 If you want to unstake, you need to do the following:
 1. Send an unstaking transaction for a validator to the `Validators` contract;
 2. Waiting for `86400` blocks before sending a transaction to `Validators` contract to withdraw all staking coins on this validator;

@@ -1,6 +1,6 @@
 # 概况
 
-支持 metamask、hoowallet app、hoowallet 浏览器插件
+支持 metamask 浏览器插件
 
 > 注意：提现到钱包之前，请检查兼容性，已知 Ledger 暂未支持
 
@@ -14,8 +14,8 @@
 
 ```
 chainid: 128
-rpc: https://http-mainnet-node.huobichain.com
-scan: https://hscinfo.com
+rpc: https://http-mainnet-node.hoochain.com
+scan: https://hscscan.com
 ```
 
 ![metamask](./images/metamask2.png)
@@ -25,18 +25,9 @@ scan: https://hscinfo.com
 
 ```
 chainid: 256
-rpc: https://http-testnet.hscchain.com
-scan: https://testnet.hscinfo.com
+rpc: https://http-testnet.hoosmartchain.com
+scan: https://testnet.hscscan.com
 ```
-
-
-# hoowallet app
-
-https://www.huobiwallet.com/
-
-# hoowallet extension
-
-> 待公布
 
 # Hsc cointtype
 

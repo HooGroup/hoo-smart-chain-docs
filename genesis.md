@@ -13,7 +13,7 @@
     - 000000000000000000000000000000000000F001 // punish 合约
     - 000000000000000000000000000000000000F002 // proposal 合约
 
-  系统合约代码仓库：[huobi-eco-contracts](https://github.com/HuobiGroup/huobi-eco-contracts)
+  系统合约代码仓库：[hoo-smart-contracts](https://github.com/HooGroup/hoo-smart-contracts)
 
 ## mainnet
 ``` JSON

@@ -6,23 +6,23 @@
 ```
 ## rpc
 ```
-https://http-testnet.hscchain.com
-wss://ws-testnet.hscchain.com
+https://http-testnet.hoosmartchain.com
+wss://ws-testnet.hoosmartchain.com
 ```
 
 Visit from China Mainland：
 ```
-https://http-testnet.huobichain.com 
-wss://ws-testnet.huobichain.com
+https://http-testnet.hoochain.com 
+wss://ws-testnet.hoochain.com
 ```
 
 ## explorer
 ```
-https://scan-testnet.hscchain.com
+https://scan-testnet.hoosmartchain.com
 ```
 
 ## faucet
 
 ```
-https://scan-testnet.hscchain.com/faucet
+https://scan-testnet.hoosmartchain.com/faucet
 ```

@@ -6,21 +6,21 @@
 ```
 ## rpc
 ```
-https://http-testnet.hscchain.com
+https://http-testnet.hoosmartchain.com
 ```
 
 大陆访问
 ```
-https://http-testnet.huobichain.com 
-wss://ws-testnet.huobichain.com
+https://http-testnet.hoochain.com 
+wss://ws-testnet.hoochain.com
 ```
 ## 浏览器
 ```
-https://testnet.hscinfo.com
+https://testnet.hscscan.com
 ```
 
 ## 测试币水龙头
-https://scan-testnet.hscchain.com/faucet
+https://scan-testnet.hoosmartchain.com/faucet
 
 
 ## P2P节点

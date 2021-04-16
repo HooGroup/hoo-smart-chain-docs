@@ -5,7 +5,7 @@ A meta-transaction is essentially an operation that fulfils a fee payment in pro
 
 # Java Demo 
 
-https://github.com/HuobiGroup/metatx-Java-demo
+https://github.com/HooGroup/metatx-Java-demo
 
 ## Build meta transaction
 - Obtain the original `rawTransaction` information.
@@ -43,7 +43,7 @@ The expiration time for the subsidy is 1 day(28800 blocks)；
 
 ### API
 
-https://meta-mainnet.hscchain.com
+https://meta-mainnet.hoosmartchain.com
 
 - Calculate the rate of subsidy
   

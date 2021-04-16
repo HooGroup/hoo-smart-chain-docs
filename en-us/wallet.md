@@ -1,6 +1,6 @@
 # Summary
 
-Hsc support metamask、hoowallet app、hoowallet extension
+Hsc support metamask
 
 > NOTE: Check compitibility before using wallet, Ledger is not supported.
 
@@ -14,8 +14,8 @@ download url：https://metamask.io/
 
 ```
 chainid: 128
-rpc: https://http-mainnet-node.huobichain.com
-scan: https://hscinfo.com
+rpc: https://http-mainnet-node.hoochain.com
+scan: https://hscscan.com
 ```
 
 ![metamask](../images/metamask2_en.png)
@@ -24,17 +24,9 @@ scan: https://hscinfo.com
 
 ```
 chainid: 256
-rpc: https://http-testnet.hscchain.com
-scan: https://testnet.hscinfo.com
+rpc: https://http-testnet.hoosmartchain.com
+scan: https://testnet.hscscan.com
 ```
-
-# hoowallet app
-
-https://www.huobiwallet.com/
-
-# hoowallet extension
-
-> to release soon
 
 # cointtype for Hsc
 

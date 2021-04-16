@@ -87,14 +87,14 @@ Awards and benefits:
 All 'Gold Creator' winners can get Hsc global marketing resources support
 
 Registration form：
-Please developers through Hooecological chain official website: hscchain.com to register or submit an application through the following registration link：
+Please developers through Hooecological chain official website: hoosmartchain.com to register or submit an application through the following registration link：
 
 Chinese registration link:https://jinshuju.net/f/mkP0ZU
 
 English registration link:https://docs.google.com/forms/d/1btQP4tg_qpjNjrk70uSb-jW2vooOFr2lM3ImGagXaJg/prefill
 
 * All registration projects can log in to the "creator ecological map" and get the whole network publicity opportunities
-Developers are requested to register through the official website of Hsc: hscchain.com or submit an application through the following registration link:
+Developers are requested to register through the official website of Hsc: hoosmartchain.com or submit an application through the following registration link:
 
 Registration link in Chinese : https://jinshuju.net/f/pylg4Q
 
@@ -183,9 +183,9 @@ Activity notice:
 
 Dear Hsc users, for your better experience, please choose RPC server according your location:
 
-Global: https://http-mainnet-node.huobichain.com
+Global: https://http-mainnet-node.hoochain.com
 
-China mainland: https://http-mainnet.hscchain.com
+China mainland: https://http-mainnet.hoosmartchain.com
 
 ## Hsc Eco Alliance Announces First Exchange Membership List
 
@@ -223,7 +223,7 @@ Risk warning：
 
 3. Hoo Smart Chain will announce authorization, promotion and other cooperation through the official social platform. Warmly remind developers and users to double check the information to avoid losses.
 
-4. Please identify the official website (hscchain.com ) to avoid private key phishing.
+4. Please identify the official website (hoosmartchain.com ) to avoid private key phishing.
 
 ## Hoo Smart Chain " WE MAKE FUTURE "program is open now for registration 
  
@@ -259,13 +259,13 @@ Registration Form in Chinese: https://jinshuju.net/f/mkP0ZU
 
 Registration Form in English: https://forms.gle/rVYnxdoh7dAc2Cfw5
  
-For more details, please visit our website: www.hscchain.com 
+For more details, please visit our website: www.hoosmartchain.com 
  
 Risk Warning: 
 1. Hsc announces authorization, promotion, and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses. 
 2. All users and developers can participate in the test environment and the Mainnet of Hsc for free, and there is no charge. 
 3. All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud. 
-4. The official website is www.hscchain.com. Please be cautious with private key phishing. 
+4. The official website is www.hoosmartchain.com. Please be cautious with private key phishing. 
  
 Hoo Smart Chain 
 

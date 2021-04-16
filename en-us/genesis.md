@@ -13,7 +13,7 @@ Both the mainnet and testnet genesis information of `HSC` chain have been hardco
     - 000000000000000000000000000000000000F001 // punish contract address
     - 000000000000000000000000000000000000F002 // proposal contract address
 
-  System contract repo: [huobi-eco-contracts](https://github.com/HuobiGroup/huobi-eco-contracts)
+  System contract repo: [hoo-smart-contracts](https://github.com/HooGroup/hoo-smart-contracts)
 
 ## mainnet
 ``` JSON
